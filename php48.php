@@ -1,2 +1,5 @@
 <?php
-echo "hello";
+function haha(){
+	echo "haha";
+}
+haha();
