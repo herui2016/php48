@@ -1,5 +1,5 @@
 <?php
 function haha(){
-	echo "haha";
+	echo "haha  hahahahah ";
 }
 haha();
